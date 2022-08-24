@@ -2,7 +2,7 @@
 
 Lightweight CLI to predict the demographics of a name and enumerate search queries for it.
 
-## Usage:
+## Usage
 
 ### Predict age, gender and nationality
 
