@@ -12,7 +12,7 @@ namercli predict -f <forename>
 
 The demographics prediction is carried out using the open APIs published by Demografix ApS. If you want to use their great APIs for more than 1000 queries/day, you can get a private key [here](https://store.genderize.io).
 
-### Return dict of search queries:
+### Return dict of search queries
 
 ```
 namercli search -f <forename> -s <surname>
