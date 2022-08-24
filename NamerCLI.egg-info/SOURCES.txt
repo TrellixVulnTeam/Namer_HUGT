@@ -1,0 +1,9 @@
+NamerCLI.py
+README.md
+setup.py
+NamerCLI.egg-info/PKG-INFO
+NamerCLI.egg-info/SOURCES.txt
+NamerCLI.egg-info/dependency_links.txt
+NamerCLI.egg-info/entry_points.txt
+NamerCLI.egg-info/requires.txt
+NamerCLI.egg-info/top_level.txt

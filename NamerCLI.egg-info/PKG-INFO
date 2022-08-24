@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: NamerCLI
+Version: 1.0.0
+Summary: Lightweight CLI to predict demographics of a name and enumerate search queries for it.
+Home-page: https://github.com/dmw94/Namer
+Author: dmw94
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
